@@ -1,0 +1,17 @@
+.popup-card {
+  padding: 0;
+}
+
+.header {
+  background-color: #800080;
+  color: white;
+  border-radius: 5px;
+}
+
+.header h2 {
+  padding: 5px 10px;
+}
+
+.card-body {
+  padding: 20px;
+}

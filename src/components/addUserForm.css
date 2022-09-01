@@ -1,0 +1,9 @@
+label,
+input,
+button {
+  margin-bottom: 5px;
+}
+
+label {
+  font-weight: bolder;
+}
